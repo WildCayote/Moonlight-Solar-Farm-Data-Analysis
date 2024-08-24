@@ -11,8 +11,8 @@ pages = {
         st.Page("pages/home.py", title="Welcome & Overview"),
     ],
     "Exploratory Data Analysis 🔍": [
-        st.Page("pages/univariate.py", title="Univariate Analysis: Exploring Individual Features"),
-        st.Page("pages/multivariate.py", title="Multivariate Analysis: Exploring Feature Relationships"),
+        st.Page("pages/univariate.py", title="Univariate Analysis"),
+        st.Page("pages/multivariate.py", title="Multivariate Analysis"),
     ],
     "Comparator Analysis 📊": [
         st.Page("pages/comparator.py", title="Country Comparison & Insights"),
