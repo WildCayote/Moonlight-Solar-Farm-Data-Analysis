@@ -30,7 +30,3 @@ Based on the analysis, Benin is recommended as the optimal location for solar en
 ## Contributor
 
 - **Tinsae Shemalise** - Main Contributor
-
-## License
-
-This project is licensed under the MIT License.
