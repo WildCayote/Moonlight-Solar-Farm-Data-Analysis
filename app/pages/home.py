@@ -9,7 +9,7 @@ st.markdown(
     """
     The Moonlight-Solar-Farm-Data-Analysis Dashboard is an interactive and user-friendly tool designed to provide comprehensive insights into solar farm data. 
     This dashboard leverages powerful data visualization techniques to analyze and interpret solar irradiation data, with a particular focus on identifying regions with high potential for solar energy farming.
-    You can find the final reports of the analysis on the reports page, but inorder to use this dashboard you should upload the 3 csv files for each country.
+    Inorder to use this dashboard you should upload the 3 csv files for each country. 
 """
 )
 
