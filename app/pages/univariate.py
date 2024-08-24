@@ -43,7 +43,6 @@ with tab1:
     elif chosen_dataset == "Togo":
         df = st.session_state["togo_df"]
     
-    # perform the summary statistics
     
     ## write the type of data for every column
     st.markdown(
